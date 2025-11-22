@@ -7,4 +7,4 @@ Maven Toys is a toy store chain with multiple locations in Mexico. They provided
 Power BI, Measures, DAX, Power Query, Data Modeling
 
 ## The KPI Report
-![gif of the interactive kpi report](/Images/KPI_report.gif)
+![gif of the interactive kpi report](/Images/updated_report_g.gif)
